@@ -1,0 +1,12 @@
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.deps.json
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.dev.json
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csprojAssemblyReference.cache
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/shaneConwell/Desktop/web-development/c-sharp-learning/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.genruntimeconfig.cache
