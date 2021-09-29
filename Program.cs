@@ -27,6 +27,7 @@ namespace CatWorx.BadgeMaker
                 int id = Int32.Parse(Console.ReadLine());
                 Console.Write("Enter Photo URL:");
                 // https://placekitten.com/300/300
+                // http://www.fillmurray.com/300/300
                 string photoUrl = Console.ReadLine();
                 Employee currentEmployee = new Employee(firstName, lastName, id, photoUrl);
                 employees.Add(currentEmployee);
