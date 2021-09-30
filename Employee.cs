@@ -27,7 +27,7 @@ namespace CatWorx.BadgeMaker
         }
         public string GetCompanyName()
         {
-            return "Cat Worx";
+            return "THE COMPANY";
         }
 
     }
